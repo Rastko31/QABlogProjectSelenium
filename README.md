@@ -6,6 +6,7 @@ A Selenium-based QA testing suite for the web page "https://testblog.kurs-qa.cub
 
 - Java 8
 - Selenium 4.5.0
+- Maven 3.8.0
 - Eclipse 4.23.0
 
 ## Dependencies
